@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🎯 Currently working on<br><br>Building my cybersecurity skills with a focus on SOC operations, threat detection, incident triage, SIEM, Linux, and network security.<br><br>### 🤝 Looking to collaborate on<br><br>Cybersecurity projects involving SOC, IDS, threat detection, network security, Python automation, and security monitoring.<br><br>### 🆘 Looking for help with<br><br>Real-world SOC workflows, advanced SIEM operations, incident response, and improving my practical blue-team skills.<br><br>### 🌱 Currently learning<br><br>SOC Analysis, Splunk & SPL, MITRE ATT&CK, Windows Event Logs, Linux logs, phishing analysis, and threat triage.<br><br>### 💬 Ask me about<br><br>Python IDS, FIM, Wireshark, Nmap, Linux, packet analysis, cybersecurity projects, and networking.<br><br>### ⚡ Fun fact<br><br>I enjoy turning cybersecurity concepts into practical tools that actually detect, analyze, and respond to security threats.<br>
+# 🎯 Currently working on<br><br>Building my cybersecurity skills with a focus on SOC operations, threat detection, incident triage, SIEM, Linux, and network security.<br><br># 🤝 Looking to collaborate on<br><br>Cybersecurity projects involving SOC, IDS, threat detection, network security, Python automation, and security monitoring.<br><br># 🆘 Looking for help with<br><br>Real-world SOC workflows, advanced SIEM operations, incident response, and improving my practical blue-team skills.<br><br># 🌱 Currently learning<br><br>SOC Analysis, Splunk & SPL, MITRE ATT&CK, Windows Event Logs, Linux logs, phishing analysis, and threat triage.<br><br># 💬 Ask me about<br><br>Python IDS, FIM, Wireshark, Nmap, Linux, packet analysis, cybersecurity projects, and networking.<br><br># ⚡ Fun fact<br><br>I enjoy turning cybersecurity concepts into practical tools that actually detect, analyze, and respond to security threats.<br>
 
 
 ## 🌐 Socials:
@@ -12,14 +12,10 @@
 ![](https://streak-stats.demolab.com/?user=Kushal96499&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kushal96499&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kushal96499&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kushal96499&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Kushal96499&icon=9&color=12)](https://visitcount.itsvg.in)
