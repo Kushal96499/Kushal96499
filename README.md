@@ -1,23 +1,113 @@
-# 💫 About Me:
-# 🎯 Currently working on<br><br>Building my cybersecurity skills with a focus on SOC operations, threat detection, incident triage, SIEM, Linux, and network security.<br><br> 🤝 Looking to collaborate on<br><br>Cybersecurity projects involving SOC, IDS, threat detection, network security, Python automation, and security monitoring.<br><br> 🆘 Looking for help with<br><br>Real-world SOC workflows, advanced SIEM operations, incident response, and improving my practical blue-team skills.<br><br> 🌱 Currently learning<br><br>SOC Analysis, Splunk & SPL, MITRE ATT&CK, Windows Event Logs, Linux logs, phishing analysis, and threat triage.<br><br> 💬 Ask me about<br><br>Python IDS, FIM, Wireshark, Nmap, Linux, packet analysis, cybersecurity projects, and networking.<br><br>⚡ Fun fact<br><br>I enjoy turning cybersecurity concepts into practical tools that actually detect, analyze, and respond to security threats.<br>
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · kushal96499</sub></p>
+<h1>Kushal Kumawat</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Portfolio: https://kushalkumawat.in</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushal-ku) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushalkumawat85598@gmail.com) 
+<p><a href="https://github.com/kushal96499">GitHub</a> &nbsp;·&nbsp; <a href="https://kushalkumawat.in">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/149420025?u=17c333e86102056e7b376dca18d658ddfa9364ff&amp;v=4" width="180" alt="Kushal Kumawat GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kushal96499&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Kushal96499&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kushal96499&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>14 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>175 contributions · 28 active days</p></td>
+</tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p><sub>Portfolio: https://kushalkumawat.in</sub></p>
 
+<h2>Proof at a glance</h2>
 
----
-[![](https://komarev.com/ghpvc/?username=Kushal96499&icon=9&color=12)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>14</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>175</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kushal96499&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149420025%3Fu%3D17c333e86102056e7b376dca18d658ddfa9364ff%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kushal96499&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149420025%3Fu%3D17c333e86102056e7b376dca18d658ddfa9364ff%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Kushal Kumawat GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kushal96499&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149420025%3Fu%3D17c333e86102056e7b376dca18d658ddfa9364ff%26v%3D4&repos=kushal96499%2FPersonal-Portfolio&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kushal96499&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149420025%3Fu%3D17c333e86102056e7b376dca18d658ddfa9364ff%26v%3D4&repos=kushal96499%2FPersonal-Portfolio&v=recruiter-projects-1&mode=dark" width="100%" alt="Kushal Kumawat selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Kushal96499/Personal-Portfolio">Personal-Portfolio</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Kushal96499/Personal-Portfolio">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kushal96499&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149420025%3Fu%3D17c333e86102056e7b376dca18d658ddfa9364ff%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=kushal96499&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149420025%3Fu%3D17c333e86102056e7b376dca18d658ddfa9364ff%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Kushal Kumawat technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>63% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>29% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kushal96499&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149420025%3Fu%3D17c333e86102056e7b376dca18d658ddfa9364ff%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kushal96499&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149420025%3Fu%3D17c333e86102056e7b376dca18d658ddfa9364ff%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Kushal Kumawat contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/kushal96499">GitHub</a><br /><a href="https://kushalkumawat.in">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Kushal Kumawat · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
